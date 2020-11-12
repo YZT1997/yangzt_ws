@@ -29,10 +29,6 @@ unistd.h
 /home/yangzt/yangzt_ws/src/vehicle_io_driver/src/unistd.h
 controlcan.h
 /home/yangzt/yangzt_ws/src/vehicle_io_driver/src/controlcan.h
-vehicle_input_msg/vehicle_input.h
--
-vehicle_output_msg/vehicle_output.h
--
 thread
 -
 Eigen/Eigen

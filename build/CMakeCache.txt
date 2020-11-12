@@ -103,7 +103,7 @@ CATKIN_SKIP_TESTING:BOOL=OFF
 CATKIN_SYMLINK_INSTALL:BOOL=OFF
 
 //List of ';' separated packages to build
-CATKIN_WHITELIST_PACKAGES:STRING=fakespeed
+CATKIN_WHITELIST_PACKAGES:STRING=
 
 //Path to a program.
 CMAKE_AR:FILEPATH=/usr/bin/ar
@@ -896,6 +896,21 @@ bond_DIR:PATH=/opt/ros/kinetic/share/bond/cmake
 //The directory containing a CMake configuration file for bondcpp.
 bondcpp_DIR:PATH=/opt/ros/kinetic/share/bondcpp/cmake
 
+//Value Computed by CMake
+border_height_detect_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/border_height_detect
+
+//Value Computed by CMake
+border_height_detect_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/border_height_detect
+
+//Value Computed by CMake
+border_msgs_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/border_msgs
+
+//The directory containing a CMake configuration file for border_msgs.
+border_msgs_DIR:PATH=/home/yangzt/yangzt_ws/devel/share/border_msgs/cmake
+
+//Value Computed by CMake
+border_msgs_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/border_msgs
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 
@@ -919,6 +934,15 @@ controlcan_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/controlcan
 
 //The directory containing a CMake configuration file for cpp_common.
 cpp_common_DIR:PATH=/opt/ros/kinetic/share/cpp_common/cmake
+
+//Value Computed by CMake
+curve_point_z_msgs_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/curve_point_z_msgs
+
+//The directory containing a CMake configuration file for curve_point_z_msgs.
+curve_point_z_msgs_DIR:PATH=/home/yangzt/yangzt_ws/devel/share/curve_point_z_msgs/cmake
+
+//Value Computed by CMake
+curve_point_z_msgs_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/curve_point_z_msgs
 
 //The directory containing a CMake configuration file for cv_bridge.
 cv_bridge_DIR:PATH=/opt/ros/kinetic/share/cv_bridge/cmake
@@ -946,6 +970,9 @@ demo_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/demo
 
 //Value Computed by CMake
 demo_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/demo
+
+//The directory containing a CMake configuration file for dynamic_reconfigure.
+dynamic_reconfigure_DIR:PATH=/opt/ros/kinetic/share/dynamic_reconfigure/cmake
 
 //Value Computed by CMake
 fakespeed_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/fakespeed
@@ -1014,11 +1041,29 @@ gtest_force_shared_crt:BOOL=OFF
 //Dependencies for the target
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
+//The directory containing a CMake configuration file for height_border_msgs.
+height_border_msgs_DIR:PATH=height_border_msgs_DIR-NOTFOUND
+
+//Value Computed by CMake
+height_msgs_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/height_msgs
+
+//The directory containing a CMake configuration file for height_msgs.
+height_msgs_DIR:PATH=/home/yangzt/yangzt_ws/devel/share/height_msgs/cmake
+
+//Value Computed by CMake
+height_msgs_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/height_msgs
+
 //The directory containing a CMake configuration file for image_transport.
 image_transport_DIR:PATH=/opt/ros/kinetic/share/image_transport/cmake
 
 //Path to a library.
 lib:FILEPATH=/opt/ros/kinetic/lib/libxmlrpcpp.so
+
+//Value Computed by CMake
+loding_detection_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/loding_detection
+
+//Value Computed by CMake
+loding_detection_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/loding_detection
 
 //The directory containing a CMake configuration file for message_filters.
 message_filters_DIR:PATH=/opt/ros/kinetic/share/message_filters/cmake
@@ -1047,6 +1092,18 @@ moveit_ws_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/moveit_ws
 //The directory containing a CMake configuration file for nodelet.
 nodelet_DIR:PATH=/opt/ros/kinetic/share/nodelet/cmake
 
+//The directory containing a CMake configuration file for nodelet_topic_tools.
+nodelet_topic_tools_DIR:PATH=/opt/ros/kinetic/share/nodelet_topic_tools/cmake
+
+//The directory containing a CMake configuration file for pcl_conversions.
+pcl_conversions_DIR:PATH=/opt/ros/kinetic/share/pcl_conversions/cmake
+
+//The directory containing a CMake configuration file for pcl_msgs.
+pcl_msgs_DIR:PATH=/opt/ros/kinetic/share/pcl_msgs/cmake
+
+//The directory containing a CMake configuration file for pcl_ros.
+pcl_ros_DIR:PATH=/opt/ros/kinetic/share/pcl_ros/cmake
+
 //The directory containing a CMake configuration file for pluginlib.
 pluginlib_DIR:PATH=/opt/ros/kinetic/share/pluginlib/cmake
 
@@ -1059,11 +1116,16 @@ qt_app_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/qt_app
 //Value Computed by CMake
 reap_unit_action_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/reap_unit_action
 
-//The directory containing a CMake configuration file for reap_unit_action.
-reap_unit_action_DIR:PATH=/home/yangzt/yangzt_ws/devel/share/reap_unit_action/cmake
+reap_unit_action_DIR:PATH=
 
 //Value Computed by CMake
 reap_unit_action_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/reap_unit_action
+
+//The directory containing a CMake configuration file for rosbag.
+rosbag_DIR:PATH=/opt/ros/kinetic/share/rosbag/cmake
+
+//The directory containing a CMake configuration file for rosbag_storage.
+rosbag_storage_DIR:PATH=/opt/ros/kinetic/share/rosbag_storage/cmake
 
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/kinetic/share/rosconsole/cmake
@@ -1077,11 +1139,17 @@ roscpp_serialization_DIR:PATH=/opt/ros/kinetic/share/roscpp_serialization/cmake
 //The directory containing a CMake configuration file for roscpp_traits.
 roscpp_traits_DIR:PATH=/opt/ros/kinetic/share/roscpp_traits/cmake
 
+//The directory containing a CMake configuration file for rosgraph.
+rosgraph_DIR:PATH=/opt/ros/kinetic/share/rosgraph/cmake
+
 //The directory containing a CMake configuration file for rosgraph_msgs.
 rosgraph_msgs_DIR:PATH=/opt/ros/kinetic/share/rosgraph_msgs/cmake
 
 //The directory containing a CMake configuration file for roslib.
 roslib_DIR:PATH=/opt/ros/kinetic/share/roslib/cmake
+
+//The directory containing a CMake configuration file for roslz4.
+roslz4_DIR:PATH=/opt/ros/kinetic/share/roslz4/cmake
 
 //The directory containing a CMake configuration file for rospack.
 rospack_DIR:PATH=/opt/ros/kinetic/share/rospack/cmake
@@ -1114,10 +1182,10 @@ smach_msgs_DIR:PATH=/opt/ros/kinetic/share/smach_msgs/cmake
 smach_ros_DIR:PATH=/opt/ros/kinetic/share/smach_ros/cmake
 
 //Value Computed by CMake
-smach_tutorials_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/smach_tutorials
+smach_tutorials_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/executive_smach_tutorials
 
 //Value Computed by CMake
-smach_tutorials_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/smach_tutorials
+smach_tutorials_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/executive_smach_tutorials
 
 //The directory containing a CMake configuration file for smclib.
 smclib_DIR:PATH=/opt/ros/kinetic/share/smclib/cmake
@@ -1134,11 +1202,35 @@ test_action_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/test_action
 //Value Computed by CMake
 test_action_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/test_action
 
+//The directory containing a CMake configuration file for tf2.
+tf2_DIR:PATH=/opt/ros/kinetic/share/tf2/cmake
+
+//The directory containing a CMake configuration file for tf2_msgs.
+tf2_msgs_DIR:PATH=/opt/ros/kinetic/share/tf2_msgs/cmake
+
+//The directory containing a CMake configuration file for tf2_py.
+tf2_py_DIR:PATH=/opt/ros/kinetic/share/tf2_py/cmake
+
+//The directory containing a CMake configuration file for tf2_ros.
+tf2_ros_DIR:PATH=/opt/ros/kinetic/share/tf2_ros/cmake
+
+//The directory containing a CMake configuration file for tf.
+tf_DIR:PATH=/opt/ros/kinetic/share/tf/cmake
+
 //Value Computed by CMake
 ti_mmwave_rospkg_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/ti_mmwave_rospkg
 
 //Value Computed by CMake
 ti_mmwave_rospkg_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/ti_mmwave_rospkg
+
+//The directory containing a CMake configuration file for topic_tools.
+topic_tools_DIR:PATH=/opt/ros/kinetic/share/topic_tools/cmake
+
+//Value Computed by CMake
+trail_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/Qt_gui_test
+
+//Value Computed by CMake
+trail_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/Qt_gui_test
 
 //The directory containing a CMake configuration file for vehicle_input_msg.
 vehicle_input_msg_DIR:PATH=vehicle_input_msg_DIR-NOTFOUND
@@ -1310,7 +1402,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=18
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
@@ -1434,7 +1526,7 @@ FIND_PACKAGE_MESSAGE_DETAILS_CUDA:INTERNAL=[/usr/local/cuda][/usr/local/cuda/bin
 //Details about finding Flann
 FIND_PACKAGE_MESSAGE_DETAILS_Flann:INTERNAL=[/usr/lib/x86_64-linux-gnu/libflann_cpp_s.a][/usr/include][v()]
 //Details about finding OpenCV
-FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[/opt/ros/kinetic][v3.3.1()]
+FIND_PACKAGE_MESSAGE_DETAILS_OpenCV:INTERNAL=[/opt/ros/kinetic][v3.3.1(3)]
 //Details about finding OpenNI2
 FIND_PACKAGE_MESSAGE_DETAILS_OpenNI2:INTERNAL=[/usr/lib/libOpenNI2.so][/usr/include/openni2][v()]
 //Details about finding PCL
@@ -1851,6 +1943,10 @@ X11_dpms_INCLUDE_PATH-ADVANCED:INTERNAL=1
 X11_xf86misc_INCLUDE_PATH-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: X11_xf86vmode_INCLUDE_PATH
 X11_xf86vmode_INCLUDE_PATH-ADVANCED:INTERNAL=1
+//Last used BOOST_INCLUDEDIR value.
+_BOOST_INCLUDEDIR_LAST:INTERNAL=/usr/include
+//Last used Boost_ADDITIONAL_VERSIONS value.
+_Boost_ADDITIONAL_VERSIONS_LAST:INTERNAL=1.47;1.47.0
 //Components requested for this build tree.
 _Boost_COMPONENTS_SEARCHED:INTERNAL=atomic;chrono;date_time;filesystem;iostreams;regex;serialization;system;thread
 //Last used Boost_INCLUDE_DIR value.

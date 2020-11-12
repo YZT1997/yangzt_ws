@@ -313,9 +313,9 @@ mmw_capture_node_EXTERNAL_OBJECTS =
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libnetcdf_c++.so
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libnetcdf.so
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libvtkGUISupportQt-6.2.so.6.2.0
-/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.5.1
-/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.5.1
-/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.5.1
+/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Widgets.so.5.12.9
+/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Gui.so.5.12.9
+/home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/lib/libQt5Core.so.5.12.9
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libvtkverdict-6.2.so.6.2.0
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libvtkGeovisCore-6.2.so.6.2.0
 /home/yangzt/yangzt_ws/devel/lib/mmw_capture/mmw_capture_node: /usr/lib/x86_64-linux-gnu/libvtkproj4-6.2.so.6.2.0

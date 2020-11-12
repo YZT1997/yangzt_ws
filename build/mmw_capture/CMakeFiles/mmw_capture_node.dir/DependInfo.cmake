@@ -53,11 +53,11 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/local/include/eigen3"
   "/usr/include/ni"
   "/usr/include/openni2"
-  "/usr/include/x86_64-linux-gnu/qt5"
-  "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
-  "/usr/include/x86_64-linux-gnu/qt5/QtGui"
-  "/usr/include/x86_64-linux-gnu/qt5/QtCore"
-  "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64"
+  "/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include"
+  "/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets"
+  "/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtGui"
+  "/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtCore"
+  "/home/yangzt/Qt5.12.9/5.12.9/gcc_64/./mkspecs/linux-g++"
   )
 
 # Targets to which this target links.

@@ -81,14 +81,40 @@ ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o.provides
 ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o.provides.build: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o
 
 
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/flags.make
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o: /home/yangzt/yangzt_ws/src/test_action/src/DoDishes_client.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yangzt/yangzt_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o"
+	cd /home/yangzt/yangzt_ws/build/ti_mmwave_rospkg && /usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o -c /home/yangzt/yangzt_ws/src/test_action/src/DoDishes_client.cpp
+
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.i"
+	cd /home/yangzt/yangzt_ws/build/ti_mmwave_rospkg && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yangzt/yangzt_ws/src/test_action/src/DoDishes_client.cpp > CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.i
+
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.s"
+	cd /home/yangzt/yangzt_ws/build/ti_mmwave_rospkg && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yangzt/yangzt_ws/src/test_action/src/DoDishes_client.cpp -o CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.s
+
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.requires:
+
+.PHONY : ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.requires
+
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.provides: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.requires
+	$(MAKE) -f ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/build.make ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.provides.build
+.PHONY : ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.provides
+
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.provides.build: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o
+
+
 # Object files for target ti_mmwave_rospkg
 ti_mmwave_rospkg_OBJECTS = \
-"CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o"
+"CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o" \
+"CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o"
 
 # External object files for target ti_mmwave_rospkg
 ti_mmwave_rospkg_EXTERNAL_OBJECTS =
 
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o
+/home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/build.make
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: /opt/ros/kinetic/lib/libnodeletlib.so
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: /usr/lib/x86_64-linux-gnu/libuuid.so
@@ -125,7 +151,7 @@ ti_mmwave_rospkg_EXTERNAL_OBJECTS =
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: /home/yangzt/yangzt_ws/devel/lib/libmmwave.so
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: /opt/ros/kinetic/lib/libserial.so
 /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yangzt/yangzt_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yangzt/yangzt_ws/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable /home/yangzt/yangzt_ws/devel/lib/ti_mmwave_rospkg/ti_mmwave_rospkg"
 	cd /home/yangzt/yangzt_ws/build/ti_mmwave_rospkg && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ti_mmwave_rospkg.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -134,6 +160,7 @@ ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/build: /home/yangzt/yangzt_ws/d
 .PHONY : ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/build
 
 ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/requires: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/src/mmWaveLoader.cpp.o.requires
+ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/requires: ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/__/test_action/src/DoDishes_client.cpp.o.requires
 
 .PHONY : ti_mmwave_rospkg/CMakeFiles/ti_mmwave_rospkg.dir/requires
 
