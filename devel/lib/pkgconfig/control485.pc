@@ -1,0 +1,8 @@
+prefix=/home/yangzt/yangzt_ws/devel
+
+Name: control485
+Description: Description of control485
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

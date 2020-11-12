@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/DoDishes_ser_node.dir/src/DoDishes_client.cpp.o  -o ../devel/lib/test_action/DoDishes_ser_node 

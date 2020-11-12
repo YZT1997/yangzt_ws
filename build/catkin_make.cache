@@ -1,0 +1,2 @@
+Qt_gui_test:control485:controlcan:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:demo:executive_smach_tutorials:fakespeed:mmw_capture:moveit_ws:qt_app:reap_unit_action:test_action:ti_mmwave_rospkg:vehicle_io_driver
+-DCATKIN_WHITELIST_PACKAGES=fakespeed -DCATKIN_DEVEL_PREFIX=/home/yangzt/yangzt_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yangzt/yangzt_ws/install -G Unix Makefiles

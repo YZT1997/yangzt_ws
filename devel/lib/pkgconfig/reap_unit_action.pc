@@ -1,0 +1,8 @@
+prefix=/home/yangzt/yangzt_ws/devel
+
+Name: reap_unit_action
+Description: Description of reap_unit_action
+Version: 0.0.0
+Cflags: -I/home/yangzt/yangzt_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
