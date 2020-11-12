@@ -1116,7 +1116,8 @@ qt_app_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/qt_app
 //Value Computed by CMake
 reap_unit_action_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/reap_unit_action
 
-reap_unit_action_DIR:PATH=
+//The directory containing a CMake configuration file for reap_unit_action.
+reap_unit_action_DIR:PATH=/home/yangzt/yangzt_ws/devel/share/reap_unit_action/cmake
 
 //Value Computed by CMake
 reap_unit_action_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/reap_unit_action
@@ -1182,10 +1183,10 @@ smach_msgs_DIR:PATH=/opt/ros/kinetic/share/smach_msgs/cmake
 smach_ros_DIR:PATH=/opt/ros/kinetic/share/smach_ros/cmake
 
 //Value Computed by CMake
-smach_tutorials_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/executive_smach_tutorials
+smach_tutorials_BINARY_DIR:STATIC=/home/yangzt/yangzt_ws/build/smach_tutorials
 
 //Value Computed by CMake
-smach_tutorials_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/executive_smach_tutorials
+smach_tutorials_SOURCE_DIR:STATIC=/home/yangzt/yangzt_ws/src/smach_tutorials
 
 //The directory containing a CMake configuration file for smclib.
 smclib_DIR:PATH=/opt/ros/kinetic/share/smclib/cmake
