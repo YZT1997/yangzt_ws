@@ -1,2 +1,0 @@
-startTime=[2020-7-2 16:43:27:331] cbRatio=1.2 reelRatio=1.6 pfRatio=4.44 fhRatio=3.94
-format:time carvl carvw cbv cbvNew cbI reelv reelvNew reelI pfv pfvNew pfI fhv fhvNew fhI
