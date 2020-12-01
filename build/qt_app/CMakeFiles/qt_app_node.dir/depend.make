@@ -218,8 +218,12 @@ qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QApplication
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QMainWindow
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QMenuBar
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QPushButton
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QSlider
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QStatusBar
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QWidget
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractbutton.h
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractslider.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qaction.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qactiongroup.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qapplication.h
@@ -227,7 +231,9 @@ qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmainwindow.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmenu.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmenubar.h
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qpushbutton.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qsizepolicy.h
+qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qslider.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qstatusbar.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qtabwidget.h
 qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o: /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qtwidgets-config.h

@@ -1052,6 +1052,14 @@ qmainwindow.h
 qmenubar.h
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmenubar.h
 
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QPushButton
+qpushbutton.h
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qpushbutton.h
+
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QSlider
+qslider.h
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qslider.h
+
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QStatusBar
 qstatusbar.h
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qstatusbar.h
@@ -1059,6 +1067,22 @@ qstatusbar.h
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QWidget
 qwidget.h
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qwidget.h
+
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtGui/qicon.h
+-
+QtGui/qkeysequence.h
+-
+QtWidgets/qwidget.h
+-
+
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractslider.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qwidget.h
+-
 
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qaction.h
 QtWidgets/qtwidgetsglobal.h
@@ -1132,12 +1156,24 @@ QtWidgets/qtwidgetsglobal.h
 QtWidgets/qmenu.h
 -
 
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qpushbutton.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractbutton.h
+-
+
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qsizepolicy.h
 QtWidgets/qtwidgetsglobal.h
 -
 QtCore/qobject.h
 -
 QtCore/qalgorithms.h
+-
+
+/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qslider.h
+QtWidgets/qtwidgetsglobal.h
+-
+QtWidgets/qabstractslider.h
 -
 
 /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qstatusbar.h
@@ -1234,6 +1270,10 @@ QtWidgets/QApplication
 QtWidgets/QMainWindow
 -
 QtWidgets/QMenuBar
+-
+QtWidgets/QPushButton
+-
+QtWidgets/QSlider
 -
 QtWidgets/QStatusBar
 -

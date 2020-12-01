@@ -219,8 +219,12 @@ qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QApplication
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QMainWindow
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QMenuBar
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QPushButton
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QSlider
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QStatusBar
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/QWidget
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractbutton.h
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qabstractslider.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qaction.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qactiongroup.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qapplication.h
@@ -228,7 +232,9 @@ qt_app/CMakeFiles/qt_app_node.dir/src/mainwindow.cpp.o
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmainwindow.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmenu.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qmenubar.h
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qpushbutton.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qsizepolicy.h
+ /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qslider.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qstatusbar.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qtabwidget.h
  /home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets/qtwidgets-config.h

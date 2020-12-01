@@ -12,3 +12,8 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
+void MainWindow::test_button_clicked() {
+    std::cout<<"Button is clicked"<<endl;
+    qnode.
+}
