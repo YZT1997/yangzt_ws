@@ -5,7 +5,7 @@
 		<Option title="Project"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_generation\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gencpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genmsg\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geneus\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geneus\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genlisp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gennodejs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gennodejs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genpy\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostime\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospy\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\;CMake Files\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_filters\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bondcpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bondcpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bond\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bond\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smclib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smclib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pluginlib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pluginlib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\class_loader\;CMake Files\..\..\..\..\opt\ros\kinetic\share\class_loader\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospack\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospack\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslz4\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslz4\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_srvs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_srvs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\topic_tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_py\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cv_bridge\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cv_bridge\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\image_transport\;CMake Files\..\..\..\..\opt\ros\kinetic\share\image_transport\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostopic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostopic\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_msgs\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\pcl\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5OpenGL\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Sql\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5WebKitWidgets\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5WebKit\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\;CMake Files\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\usr\lib\cmake\vtk-6.2\;CMake Files\..\..\..\..\usr\lib\cmake\vtk-6.2\Modules\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\usr\local\share\eigen3\cmake\;CMake Files\..\..\Qt5.12.9\;CMake Files\..\..\Qt5.12.9\5.12.9\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Core\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;CMake Files\cmake-build-debug\border_msgs\;CMake Files\cmake-build-debug\border_msgs\catkin_generated\;CMake Files\cmake-build-debug\border_msgs\cmake\;CMake Files\cmake-build-debug\devel\;CMake Files\cmake-build-debug\devel\share\;CMake Files\cmake-build-debug\devel\share\border_msgs\;CMake Files\cmake-build-debug\devel\share\border_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\curve_point_z_msgs\;CMake Files\cmake-build-debug\devel\share\curve_point_z_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\height_msgs\;CMake Files\cmake-build-debug\devel\share\height_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\demo\;CMake Files\cmake-build-debug\devel\share\demo\cmake\;CMake Files\cmake-build-debug\devel\share\reap_unit_action\;CMake Files\cmake-build-debug\devel\share\reap_unit_action\cmake\;CMake Files\cmake-build-debug\devel\share\smach_tutorials\;CMake Files\cmake-build-debug\devel\share\smach_tutorials\cmake\;CMake Files\cmake-build-debug\devel\share\test_action\;CMake Files\cmake-build-debug\devel\share\test_action\cmake\;CMake Files\cmake-build-debug\curve_point_z_msgs\;CMake Files\cmake-build-debug\curve_point_z_msgs\catkin_generated\;CMake Files\cmake-build-debug\curve_point_z_msgs\cmake\;CMake Files\cmake-build-debug\height_msgs\;CMake Files\cmake-build-debug\height_msgs\catkin_generated\;CMake Files\cmake-build-debug\height_msgs\cmake\;CMake Files\cmake-build-debug\demo\;CMake Files\cmake-build-debug\demo\catkin_generated\;CMake Files\cmake-build-debug\demo\cmake\;CMake Files\cmake-build-debug\fakespeed\;CMake Files\cmake-build-debug\fakespeed\catkin_generated\;CMake Files\cmake-build-debug\qt_app\;CMake Files\cmake-build-debug\qt_app\catkin_generated\;CMake Files\cmake-build-debug\read_CAN\;CMake Files\cmake-build-debug\read_CAN\catkin_generated\;CMake Files\cmake-build-debug\reap_unit_action\;CMake Files\cmake-build-debug\reap_unit_action\catkin_generated\;CMake Files\cmake-build-debug\reap_unit_action\cmake\;CMake Files\cmake-build-debug\controlcan\;CMake Files\cmake-build-debug\controlcan\catkin_generated\;CMake Files\cmake-build-debug\border_height_detect\;CMake Files\cmake-build-debug\border_height_detect\catkin_generated\;CMake Files\cmake-build-debug\loding_detection\;CMake Files\cmake-build-debug\loding_detection\catkin_generated\;CMake Files\cmake-build-debug\mmw_capture\;CMake Files\cmake-build-debug\mmw_capture\catkin_generated\;CMake Files\cmake-build-debug\smach_tutorials\;CMake Files\cmake-build-debug\smach_tutorials\catkin_generated\;CMake Files\cmake-build-debug\smach_tutorials\cmake\;CMake Files\cmake-build-debug\test_action\;CMake Files\cmake-build-debug\test_action\catkin_generated\;CMake Files\cmake-build-debug\test_action\cmake\;CMake Files\cmake-build-debug\moveit_ws\;CMake Files\cmake-build-debug\moveit_ws\catkin_generated\;CMake Files\border_msgs\;CMake Files\curve_point_z_msgs\;CMake Files\height_msgs\;CMake Files\demo\;CMake Files\fakespeed\;CMake Files\qt_app\;CMake Files\read_CAN\;CMake Files\reap_unit_action\;CMake Files\reap_unit_action\action\;CMake Files\controlcan\;CMake Files\border_height_detect\;CMake Files\loding_detection\;CMake Files\mmw_capture\;CMake Files\smach_tutorials\;CMake Files\smach_tutorials\action\;CMake Files\test_action\;CMake Files\test_action\action\;CMake Files\moveit_ws\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\opt\;CMake Files\..\..\..\..\opt\ros\;CMake Files\..\..\..\..\opt\ros\kinetic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\platform\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\test\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\templates\;CMake Files\..\..\..\..\opt\ros\kinetic\share\catkin\cmake\em\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_generation\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_generation\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gencpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gencpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genmsg\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genmsg\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geneus\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geneus\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genlisp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genlisp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gennodejs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\gennodejs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genpy\;CMake Files\..\..\..\..\opt\ros\kinetic\share\genpy\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_runtime\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_runtime\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cpp_common\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cpp_common\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_serialization\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp_traits\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostime\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostime\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roscpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosconsole\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosconsole\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\xmlrpcpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospy\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospy\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\qt_build\;CMake Files\..\..\..\..\opt\ros\kinetic\share\qt_build\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\sensor_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\geometry_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\;CMake Files\..\..\..\..\opt\ros\kinetic\share\dynamic_reconfigure\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_filters\;CMake Files\..\..\..\..\opt\ros\kinetic\share\message_filters\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bondcpp\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bondcpp\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bond\;CMake Files\..\..\..\..\opt\ros\kinetic\share\bond\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smclib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smclib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pluginlib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pluginlib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\class_loader\;CMake Files\..\..\..\..\opt\ros\kinetic\share\class_loader\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslib\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslib\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospack\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rospack\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\nodelet_topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_conversions\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\pcl_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosbag_storage\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslz4\;CMake Files\..\..\..\..\opt\ros\kinetic\share\roslz4\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_srvs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\std_srvs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\topic_tools\;CMake Files\..\..\..\..\opt\ros\kinetic\share\topic_tools\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rosgraph\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_msgs\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_py\;CMake Files\..\..\..\..\opt\ros\kinetic\share\tf2_py\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cv_bridge\;CMake Files\..\..\..\..\opt\ros\kinetic\share\cv_bridge\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\image_transport\;CMake Files\..\..\..\..\opt\ros\kinetic\share\image_transport\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\OpenCV-3.3.1-dev\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_ros\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_ros\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostopic\;CMake Files\..\..\..\..\opt\ros\kinetic\share\rostopic\cmake\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_msgs\;CMake Files\..\..\..\..\opt\ros\kinetic\share\smach_msgs\cmake\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\src\;CMake Files\..\..\..\..\usr\src\gmock\;CMake Files\..\..\..\..\usr\src\gtest\;CMake Files\..\..\..\..\usr\src\gtest\cmake\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\pcl\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5OpenGL\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Sql\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5WebKitWidgets\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5WebKit\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Network\;CMake Files\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\usr\lib\cmake\vtk-6.2\;CMake Files\..\..\..\..\usr\lib\cmake\vtk-6.2\Modules\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\usr\local\share\eigen3\cmake\;CMake Files\..\..\Qt5.12.9\;CMake Files\..\..\Qt5.12.9\5.12.9\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Gui\;CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Core\;CMake Files\cmake-build-debug\;CMake Files\cmake-build-debug\catkin\;CMake Files\cmake-build-debug\catkin\catkin_generated\;CMake Files\cmake-build-debug\catkin\catkin_generated\version\;CMake Files\cmake-build-debug\catkin_generated\;CMake Files\cmake-build-debug\catkin_generated\installspace\;CMake Files\cmake-build-debug\border_msgs\;CMake Files\cmake-build-debug\border_msgs\catkin_generated\;CMake Files\cmake-build-debug\border_msgs\cmake\;CMake Files\cmake-build-debug\devel\;CMake Files\cmake-build-debug\devel\share\;CMake Files\cmake-build-debug\devel\share\border_msgs\;CMake Files\cmake-build-debug\devel\share\border_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\curve_point_z_msgs\;CMake Files\cmake-build-debug\devel\share\curve_point_z_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\height_msgs\;CMake Files\cmake-build-debug\devel\share\height_msgs\cmake\;CMake Files\cmake-build-debug\devel\share\demo\;CMake Files\cmake-build-debug\devel\share\demo\cmake\;CMake Files\cmake-build-debug\devel\share\reap_unit_action\;CMake Files\cmake-build-debug\devel\share\reap_unit_action\cmake\;CMake Files\cmake-build-debug\devel\share\smach_tutorials\;CMake Files\cmake-build-debug\devel\share\smach_tutorials\cmake\;CMake Files\cmake-build-debug\devel\share\test_action\;CMake Files\cmake-build-debug\devel\share\test_action\cmake\;CMake Files\cmake-build-debug\curve_point_z_msgs\;CMake Files\cmake-build-debug\curve_point_z_msgs\catkin_generated\;CMake Files\cmake-build-debug\curve_point_z_msgs\cmake\;CMake Files\cmake-build-debug\height_msgs\;CMake Files\cmake-build-debug\height_msgs\catkin_generated\;CMake Files\cmake-build-debug\height_msgs\cmake\;CMake Files\cmake-build-debug\demo\;CMake Files\cmake-build-debug\demo\catkin_generated\;CMake Files\cmake-build-debug\demo\cmake\;CMake Files\cmake-build-debug\fakespeed\;CMake Files\cmake-build-debug\fakespeed\catkin_generated\;CMake Files\cmake-build-debug\qt_ros\;CMake Files\cmake-build-debug\qt_ros\catkin_generated\;CMake Files\cmake-build-debug\read_CAN\;CMake Files\cmake-build-debug\read_CAN\catkin_generated\;CMake Files\cmake-build-debug\reap_unit_action\;CMake Files\cmake-build-debug\reap_unit_action\catkin_generated\;CMake Files\cmake-build-debug\reap_unit_action\cmake\;CMake Files\cmake-build-debug\controlcan\;CMake Files\cmake-build-debug\controlcan\catkin_generated\;CMake Files\cmake-build-debug\border_height_detect\;CMake Files\cmake-build-debug\border_height_detect\catkin_generated\;CMake Files\cmake-build-debug\loding_detection\;CMake Files\cmake-build-debug\loding_detection\catkin_generated\;CMake Files\cmake-build-debug\mmw_capture\;CMake Files\cmake-build-debug\mmw_capture\catkin_generated\;CMake Files\cmake-build-debug\smach_tutorials\;CMake Files\cmake-build-debug\smach_tutorials\catkin_generated\;CMake Files\cmake-build-debug\smach_tutorials\cmake\;CMake Files\cmake-build-debug\test_action\;CMake Files\cmake-build-debug\test_action\catkin_generated\;CMake Files\cmake-build-debug\test_action\cmake\;CMake Files\cmake-build-debug\moveit_ws\;CMake Files\cmake-build-debug\moveit_ws\catkin_generated\;CMake Files\border_msgs\;CMake Files\curve_point_z_msgs\;CMake Files\height_msgs\;CMake Files\demo\;CMake Files\fakespeed\;CMake Files\qt_ros\;CMake Files\qt_ros\resources\;CMake Files\read_CAN\;CMake Files\reap_unit_action\;CMake Files\reap_unit_action\action\;CMake Files\controlcan\;CMake Files\border_height_detect\;CMake Files\loding_detection\;CMake Files\mmw_capture\;CMake Files\smach_tutorials\;CMake Files\smach_tutorials\action\;CMake Files\test_action\;CMake Files\test_action\action\;CMake Files\moveit_ws\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug"/>
@@ -1061,30 +1061,25 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/fakespeed/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="qt_app_node">
-				<Option output="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_app/qt_app_node" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_app"/>
+			<Target title="qt_ros">
+				<Option output="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_ros/qt_ros" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_ros"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
-					<Add option="-DROS_PACKAGE_NAME=&quot;qt_app&quot;"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;qt_ros&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
-					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/qt_app"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/qt_app_node_autogen/include"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/qt_app/include/qt_app"/>
+					<Add option="-DQT_NO_KEYWORDS"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtGui"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtCore"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros"/>
+					<Add directory="/usr/include/qt4"/>
+					<Add directory="/usr/include/qt4/QtGui"/>
+					<Add directory="/usr/include/qt4/QtCore"/>
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
 					<Add directory="/usr/include/c++/5/backward"/>
@@ -1095,36 +1090,31 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 qt_app_node"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 qt_ros"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="qt_app_node/fast">
-				<Option output="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_app/qt_app_node" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_app"/>
+			<Target title="qt_ros/fast">
+				<Option output="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_ros/qt_ros" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug/devel/lib/qt_ros"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add option="-DROS_BUILD_SHARED_LIBS=1"/>
-					<Add option="-DROS_PACKAGE_NAME=&quot;qt_app&quot;"/>
+					<Add option="-DROS_PACKAGE_NAME=&quot;qt_ros&quot;"/>
 					<Add option="-DROSCONSOLE_BACKEND_LOG4CXX"/>
-					<Add option="-DQT_WIDGETS_LIB"/>
 					<Add option="-DQT_GUI_LIB"/>
 					<Add option="-DQT_CORE_LIB"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/qt_app"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/qt_app_node_autogen/include"/>
-					<Add directory="/home/yangzt/yangzt_ws/src/qt_app/include/qt_app"/>
+					<Add option="-DQT_NO_KEYWORDS"/>
 					<Add directory="/opt/ros/kinetic/include"/>
 					<Add directory="/opt/ros/kinetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtWidgets"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtGui"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/include/QtCore"/>
-					<Add directory="/home/yangzt/Qt5.12.9/5.12.9/gcc_64/./mkspecs/linux-g++"/>
+					<Add directory="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros"/>
+					<Add directory="/usr/include/qt4"/>
+					<Add directory="/usr/include/qt4/QtGui"/>
+					<Add directory="/usr/include/qt4/QtCore"/>
 					<Add directory="/usr/include/c++/5"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
 					<Add directory="/usr/include/c++/5/backward"/>
@@ -1135,20 +1125,10 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 qt_app_node/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="qt_app_node_autogen">
-				<Option working_dir="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 qt_app_node_autogen"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 qt_ros/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="read_CAN_node">
@@ -3062,8 +3042,23 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/border_height_detect/main.cpp">
 			<Option target="border_height_detect"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/qt_app_node_autogen/mocs_compilation.cpp">
-			<Option target="qt_app_node"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/include/qt_ros/moc_main_window.cxx">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/include/qt_ros/moc_main_window.cxx.rule">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/include/qt_ros/moc_qnode.cxx">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/include/qt_ros/moc_qnode.cxx.rule">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/qrc_images.cxx">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/ui_main_window.h">
+			<Option target="qt_ros"/>
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/controlcan/src/controlcan_node.cpp">
 			<Option target="controlcan_node"/>
@@ -3092,17 +3087,20 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/mmw_capture/src/mmw_capture_node.cpp">
 			<Option target="mmw_capture_node"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/src/mainwindow.cpp">
-			<Option target="qt_app_node"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/resources/images.qrc">
+			<Option target="qt_ros"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/src/mainwindow.h">
-			<Option target="qt_app_node"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/src/main.cpp">
+			<Option target="qt_ros"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/src/mainwindow.ui">
-			<Option target="qt_app_node"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/src/main_window.cpp">
+			<Option target="qt_ros"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/src/qt_app_node.cpp">
-			<Option target="qt_app_node"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/src/qnode.cpp">
+			<Option target="qt_ros"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/ui/main_window.ui">
+			<Option target="qt_ros"/>
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/read_CAN/src/CAN_DEVICE.cpp">
 			<Option target="read_CAN_node"/>
@@ -3479,6 +3477,15 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../opt/ros/kinetic/share/rospy/cmake/rospyConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\rospy\cmake\"/>
 		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../opt/ros/kinetic/share/qt_build/cmake/qt-ros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\qt_build\cmake\"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../opt/ros/kinetic/share/qt_build/cmake/qt_buildConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\qt_build\cmake\"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../opt/ros/kinetic/share/qt_build/cmake/qt_buildConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\qt_build\cmake\"/>
+		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../opt/ros/kinetic/share/actionlib/cmake/actionlib-msg-extras.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\opt\ros\kinetic\share\actionlib\cmake\"/>
 		</Unit>
@@ -3769,12 +3776,6 @@
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../usr/src/gtest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\usr\src\gtest\cmake\"/>
-		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
-		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
-			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../usr/lib/x86_64-linux-gnu/cmake/pcl/PCLConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\pcl\"/>
@@ -4322,15 +4323,6 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../../../usr/local/share/eigen3/cmake/Eigen3Targets.cmake">
 			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\eigen3\cmake\"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/../../Qt5.12.9/5.12.9/gcc_64/lib/cmake/Qt5/Qt5Config.cmake">
-			<Option virtualFolder="CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5\"/>
-		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/../../Qt5.12.9/5.12.9/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
-			<Option virtualFolder="CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5\"/>
-		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/../../Qt5.12.9/5.12.9/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
-			<Option virtualFolder="CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5\"/>
-		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/../../Qt5.12.9/5.12.9/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
 			<Option virtualFolder="CMake Files\..\..\Qt5.12.9\5.12.9\gcc_64\lib\cmake\Qt5Widgets\"/>
 		</Unit>
@@ -4604,11 +4596,11 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/fakespeed/catkin_generated/package.cmake">
 			<Option virtualFolder="CMake Files\cmake-build-debug\fakespeed\catkin_generated\"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/catkin_generated/ordered_paths.cmake">
-			<Option virtualFolder="CMake Files\cmake-build-debug\qt_app\catkin_generated\"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/catkin_generated/ordered_paths.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\qt_ros\catkin_generated\"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_app/catkin_generated/package.cmake">
-			<Option virtualFolder="CMake Files\cmake-build-debug\qt_app\catkin_generated\"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/qt_ros/catkin_generated/package.cmake">
+			<Option virtualFolder="CMake Files\cmake-build-debug\qt_ros\catkin_generated\"/>
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/cmake-build-debug/read_CAN/catkin_generated/ordered_paths.cmake">
 			<Option virtualFolder="CMake Files\cmake-build-debug\read_CAN\catkin_generated\"/>
@@ -4718,11 +4710,14 @@
 		<Unit filename="/home/yangzt/yangzt_ws/src/fakespeed/package.xml">
 			<Option virtualFolder="CMake Files\fakespeed\"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\qt_app\"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\qt_ros\"/>
 		</Unit>
-		<Unit filename="/home/yangzt/yangzt_ws/src/qt_app/package.xml">
-			<Option virtualFolder="CMake Files\qt_app\"/>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/package.xml">
+			<Option virtualFolder="CMake Files\qt_ros\"/>
+		</Unit>
+		<Unit filename="/home/yangzt/yangzt_ws/src/qt_ros/resources/images.qrc">
+			<Option virtualFolder="CMake Files\qt_ros\resources\"/>
 		</Unit>
 		<Unit filename="/home/yangzt/yangzt_ws/src/read_CAN/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\read_CAN\"/>

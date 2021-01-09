@@ -1163,30 +1163,17 @@ fakespeed_node/fast:
 .PHONY : fakespeed_node/fast
 
 #=============================================================================
-# Target rules for targets named qt_app_node
+# Target rules for targets named qt_ros
 
 # Build rule for target.
-qt_app_node: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qt_app_node
-.PHONY : qt_app_node
+qt_ros: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qt_ros
+.PHONY : qt_ros
 
 # fast build rule for target.
-qt_app_node/fast:
-	$(MAKE) $(MAKESILENT) -f qt_app/CMakeFiles/qt_app_node.dir/build.make qt_app/CMakeFiles/qt_app_node.dir/build
-.PHONY : qt_app_node/fast
-
-#=============================================================================
-# Target rules for targets named qt_app_node_autogen
-
-# Build rule for target.
-qt_app_node_autogen: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 qt_app_node_autogen
-.PHONY : qt_app_node_autogen
-
-# fast build rule for target.
-qt_app_node_autogen/fast:
-	$(MAKE) $(MAKESILENT) -f qt_app/CMakeFiles/qt_app_node_autogen.dir/build.make qt_app/CMakeFiles/qt_app_node_autogen.dir/build
-.PHONY : qt_app_node_autogen/fast
+qt_ros/fast:
+	$(MAKE) $(MAKESILENT) -f qt_ros/CMakeFiles/qt_ros.dir/build.make qt_ros/CMakeFiles/qt_ros.dir/build
+.PHONY : qt_ros/fast
 
 #=============================================================================
 # Target rules for targets named read_CAN_node
@@ -3016,7 +3003,6 @@ help:
 	@echo "... pcl_msgs_generate_messages_nodejs"
 	@echo "... pcl_msgs_generate_messages_py"
 	@echo "... pcl_ros_gencfg"
-	@echo "... qt_app_node_autogen"
 	@echo "... reap_unit_action_gencpp"
 	@echo "... reap_unit_action_generate_messages"
 	@echo "... reap_unit_action_generate_messages_cpp"
@@ -3110,7 +3096,7 @@ help:
 	@echo "... gtest_main"
 	@echo "... loding_detection"
 	@echo "... mmw_capture_node"
-	@echo "... qt_app_node"
+	@echo "... qt_ros"
 	@echo "... read_CAN_node"
 .PHONY : help
 

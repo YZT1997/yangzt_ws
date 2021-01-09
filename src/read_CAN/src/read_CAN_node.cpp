@@ -56,8 +56,8 @@ int main(int argc, char **argv)
 //    //测试是否可以双通道运行
 
     can_2.init_CAN();
-//    ROS_INFO_STREAM("can2 receive thread starting...");
-//    can_2.open_receive();
+    ROS_INFO_STREAM("can2 receive thread starting...");
+    can_2.open_receive();
 
     int spin_or_watchdog = 0;
     if(spin_or_watchdog == 0)
@@ -78,7 +78,7 @@ int main(int argc, char **argv)
 
     can_1.close_receive();
 	can_1.closeCAN();
-//    can_2.close_receive();
+    can_2.close_receive();
     can_2.closeCAN();
 	return 0;
 }

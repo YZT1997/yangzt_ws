@@ -1253,6 +1253,8 @@ ui_mainwindow.h
 /home/yangzt/yangzt_ws/src/qt_app/src/mainwindow.h
 QMainWindow
 -
+iostream
+-
 
 /home/yangzt/yangzt_ws/src/qt_app/src/qt_app_node.cpp
 qt_app_node.h

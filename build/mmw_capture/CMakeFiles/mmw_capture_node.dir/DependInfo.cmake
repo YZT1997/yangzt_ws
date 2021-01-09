@@ -43,7 +43,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/usr/lib/openmpi/include/openmpi"
   "/usr/include/jsoncpp"
   "/usr/include/python2.7"
-  "/usr/include/hdf5/openmpi"
+  "/usr/include/hdf5/serial"
   "/usr/include/tcl"
   "/usr/include/libxml2"
   "/home/yangzt/yangzt_ws/src/mmw_capture/include/mmw_capture"
